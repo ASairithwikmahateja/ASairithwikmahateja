@@ -10,8 +10,8 @@
 - 😄 Pronouns: He/Him
 
 - ⚡ Hobbies: 
-       <br> I am a curious soul who wants to uncover the unknown through research
-       <br> Learning spanish and playing guitar is my past time interest
+       I am a curious soul who wants to uncover the unknown through research
+       Learning spanish and playing guitar is my past time interest
 
 <br>
 <p align="center">
@@ -27,6 +27,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 

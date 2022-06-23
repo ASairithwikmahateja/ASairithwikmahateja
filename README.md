@@ -6,5 +6,7 @@
 - 💬 Ask me about Business Analytics/Data Science/Information Technology
 - 📫 Feel free to reach me at: asrmahateja97@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a curious soul who wants to uncover the unknown through research
--             Learning spanish and playing guitar is my past time interest
+
+- ⚡ Hobbies: 
+- I am a curious soul who wants to uncover the unknown through research. 
+- Learning spanish and playing guitar is my past time interest

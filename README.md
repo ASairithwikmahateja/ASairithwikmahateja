@@ -1,4 +1,4 @@
-### Hola! Bienvenido a mi perfil 👋
+### Hola! Bienvenido a mi perfil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ASairithwikmahateja.ASairithwikmahateja) 
 

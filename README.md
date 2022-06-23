@@ -1,6 +1,5 @@
 ### Hola!  👋
 
-<!--
 **ASairithwikmahateja/ASairithwikmahateja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 Feel free to reach me at: asrmahateja97@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a curious soul who wants to uncover the unknown through research
--->

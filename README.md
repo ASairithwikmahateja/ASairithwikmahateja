@@ -4,13 +4,13 @@
 
 [![Github](https://img.shields.io/github/followers/ASairithwikmahateja?label=Follow&style=social)](https://github.com/ASairithwikmahateja)
 
-- 🔭 I’m currently working as Data Analyst at Indian School of Business
-- 💬 Ask me about Business Analytics/Data Science/Information Technology
-- 📫 Feel free to reach me at: asrmahateja97@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Hobbies: 
--      I am a curious soul who wants to uncover the unknown through research
--      Learning spanish and playing guitar is my past time interest
+-  🔭 I’m currently working as Data Analyst at Indian School of Business
+-  🌱 Budding Data Science and Information Systems researcher
+-  💬 Ask me about Business Analytics/Data Science/Information Technology
+-  📫 Feel free to reach me at: asrmahateja97@gmail.com
+-  ⚡ Hobbies: 
+- I am a curious soul who wants to uncover the unknown through research
+- Learning spanish and playing guitar is my past time interest
 
 <br>
 <p align="center">

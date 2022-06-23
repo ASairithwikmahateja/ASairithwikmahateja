@@ -1,11 +1,10 @@
-### Hola!  👋
+### Hola! Bienvenido a mi perfil 👋
 
-**ASairithwikmahateja/ASairithwikmahateja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.laobi.icu/badge?page_id=ASairithwikmahateja.ASairithwikmahateja)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as Data Analyst and Academic Associate in Indian School of Business
+- 🔭 I’m currently working as Data Analyst at Indian School of Business
 - 💬 Ask me about Business Analytics/Data Science/Information Technology
 - 📫 Feel free to reach me at: asrmahateja97@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a curious soul who wants to uncover the unknown through research
+-             Learning spanish and playing guitar is my past time interest
